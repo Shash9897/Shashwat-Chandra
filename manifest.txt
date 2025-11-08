@@ -1,0 +1,7 @@
+Manifest for proof artifacts:
+- proof/run_small_batch.log : simulated small-batch run log
+- proof/run_large_batch.log : simulated large-image run log
+- proof/img001_before.jpg / img001_after.jpg : before/after sample (1024x1024)
+- proof/img045_before.jpg / img045_after.jpg : before/after sample (800x600)
+- scripts/run_small.sh, scripts/run_large.sh : helper scripts that generate the logs (simulated)
+- README.md : project overview and build instructions
